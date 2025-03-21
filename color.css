@@ -1,0 +1,164 @@
+/* Theme 1 */
+.bodyc1 {
+    background-color: #fef6e4;
+}
+.formc1 {
+    background-color: #f3d2c1;
+}
+.supc1 {
+    background-color: #f582ae;
+    color: #001858;
+}
+.supc1:hover {
+    box-shadow: 0 0 20px 5px #f582ae;
+}
+
+/* Theme 2 */
+.bodyc2 {
+    background-color: #55423d;
+}
+.formc2 {
+    background-color: #fff3ec;
+}
+.supc2 {
+    background-color: #ffc0ad;
+    color: #271c19;
+}
+.supc2:hover {
+    box-shadow: 0 0 20px 5px #ffc0ad;
+}
+
+/* Theme 3 */
+.bodyc3 {
+    background-color: #faeee7;
+}
+.formc3 {
+    background-color: #fffffe;
+}
+.supc3 {
+    background-color: #ff8ba7;
+    color: #33272a;
+}
+.supc3:hover {
+    box-shadow: 0 0 20px 5px #ff8ba7;
+}
+
+/* Theme 4 */
+.bodyc4 {
+    background-color: #fffffe;
+}
+.formc4 {
+    background-color: #bae8e8;
+}
+.supc4 {
+    background-color: #ffd803;
+    color: #272343;
+}
+.supc4:hover {
+    box-shadow: 0 0 20px 5px #ffd803;
+}
+
+/* Theme 5 */
+.bodyc5 {
+    background-color: #0f0e17;
+}
+.formc5 {
+    background-color: #fffffe;
+}
+.supc5 {
+    background-color: #ff8906;
+    color: #fffffe;
+}
+.supc5:hover {
+    box-shadow: 0 0 20px 5px #ff8906;
+}
+
+/* Theme 6 */
+.bodyc6 {
+    background-color: #232946;
+}
+.formc6 {
+    background-color: #b8c1ec;
+}
+.supc6 {
+    background-color: #eebbc3;
+    color: #232946;
+}
+.supc6:hover {
+    box-shadow: 0 0 20px 5px #eebbc3;
+}
+
+/* Theme 7 */
+.bodyc7 {
+    background-color: #f9f4ef;
+}
+.formc7 {
+    background-color: #f25042;
+}
+.supc7 {
+    background-color: #8c7851;
+    color: #fffffe;
+}
+.supc7:hover {
+    box-shadow: 0 0 20px 5px #8c7851;
+}
+
+/* Theme 8 */
+.bodyc8 {
+    background-color: #004643;
+}
+.formc8 {
+    background-color: #e8e4e6;
+}
+.supc8 {
+    background-color: #f9bc60;
+    color: #001e1d;
+}
+.supc8:hover {
+    box-shadow: 0 0 20px 5px #f9bc60;
+}
+
+/* Theme 9 */
+.bodyc9 {
+    background-color: #eff0f3;
+}
+.formc9 {
+    background-color: #d9376e;
+}
+.supc9 {
+    background-color: #ff8e3c;
+    color: #0d0d0d;
+}
+.supc9:hover {
+    box-shadow: 0 0 20px 5px #ff8e3c;
+}
+
+/* Theme 10 */
+.bodyc10 {
+    background-color: #f8f5f2;
+}
+.formc10 {
+    background-color: #f45d48;
+}
+.supc10 {
+    background-color: #078080;
+    color: #232323;
+}
+.supc10:hover {
+    box-shadow: 0 0 20px 5px #078080;
+}
+
+/* Theme 11 */
+.bodyc11 {
+    background-color: #fec7d7;
+}
+.formc11 {
+    background-color: #f9f8fc;
+}
+.supc11 {
+    background-color: #0e172c;
+    color: #fffffe;
+}
+.supc11:hover {
+    box-shadow: 0 0 20px 5px #0e172c;
+}
